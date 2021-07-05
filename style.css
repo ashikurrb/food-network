@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0%;
 }
 
 h1{
@@ -44,6 +45,8 @@ h1{
 
 .about-me{
     display: flex;
+    height: ;
     background-image: url(images/second-banner.jpg);
     background-repeat:no-repeat ;
+    margin-bottom: 5%;
 }
